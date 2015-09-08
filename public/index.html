@@ -1,0 +1,80 @@
+<!doctype html>
+
+<html lang="en" ng-app="ulapp">
+<head>
+  <meta charset="utf-8">
+
+    <title>United Labs</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="author" content="SitePoint">
+    <!-- Style Sheets -->
+    <link rel='shortcut icon' type='image/x-icon' href='images/favicon.ico' />
+    <link rel="stylesheet" href="styles/css/main.css">
+    <link rel="stylesheet" href="styles/css/materialize.css">
+        <link rel="stylesheet" href="styles/css/main.css">
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+    
+</head>
+
+<body>
+    <header>
+   
+    <div class="navbar-fixed">        
+      <nav>
+        <div class="nav-wrapper">
+            <!--<img alt="Brand" src="images/unitedlabslogo.svg" style="height:100%; widht:100%">-->
+          <a href="#/" class="brand-logo  hide-on-med-and-down"><img alt="Brand" src="images/unitedlabslogo.svg" style="height:60px; widht:60px; padding:5px; padding-top:10px"></a>
+          <a href="#/" class="brand-logo" style="padding-left: 60px">United Labs</a>
+          <a href="#/" data-activates="mobile-demo" class="button-collapse"><img alt="Brand" src="images/unitedlabslogo.svg" style="height:60px; widht:60px; padding:5px; padding-top:10px"></a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="#products">Products</a></li>
+            <li><a href="#aboutus">About Us</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+
+          </ul>
+          <ul class="side-nav" id="mobile-demo">
+            <li><a href="#/">Home</a></li>              
+            <li><a href="#products">Products</a></li>
+            <li><a href="#aboutus">About Us</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+          </ul>
+        </div>
+      </nav>        
+    </div>  
+            
+        
+    </header>
+
+       <main> 
+        <div ng-view></div>
+        </main>   
+ 
+    
+    <!--Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js"></script>
+    <script src="https://code.angularjs.org/1.4.4/angular-route.min.js"></script>
+    <script src="https://code.angularjs.org/1.4.4/angular-animate.min.js"></script>    
+    
+    <script src="scripts/libs/materialize.min.js"></script>
+
+    
+    <!-- Controllers -->
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/homectrl.js"></script>
+    <script src="scripts/controllers/productsctrl.js"></script>
+    <script src="scripts/controllers/aboutusctrl.js"></script>
+    <script src="scripts/controllers/contactctrl.js"></script>
+</body>
+</html>

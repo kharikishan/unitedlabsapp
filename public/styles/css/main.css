@@ -1,0 +1,30 @@
+.parallax-container{ z-index: 10; }
+
+
+.imgtext { 
+   position: absolute; 
+   top: 85%; 
+   left: 60%; 
+   width: 100%;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.2);
+}
+
+.place-holder{
+    height: 30px;
+}
+
+
+.homepagefont {
+    font-family: 'Lobster', cursive;
+    color: 'red'
+}
+
+  /* label color */
+   .input-field label {
+     color: #000;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #000;
+   }

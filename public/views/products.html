@@ -1,0 +1,46 @@
+
+<div class="place-holder"></div> 
+
+
+  <!--  <div class="row">
+        <form class="col s12"> -->
+          <div class="row amber darken1 container">      
+            <div class="input-field col m5 s12">
+              <i class="material-icons prefix">search</i>
+              <input id="icon_prefix" type="text" ng-model="searchText">
+              <label for="icon_prefix">Search</label>
+            </div>
+            <div class="input-field col m5 s12">
+                <select class="browser-default" ng-model="selectedGroup" placeholder="Choose a group">
+                    <option value>All</option>
+                    <option ng-repeat="productgroup in productgroups" value="{{productgroup.name}}">{{productgroup.name}}</option>
+                </select>
+            </div>
+            <div class="input-field col m2 s12">
+              <a class="btn btn-large waves-effect waves-light" ng-click="clearfilter();">Clear</a>
+            </div>
+          </div>
+ 
+
+    <div class="row">
+ 
+        <div class="col s12 m4"  ng-repeat= "product in products | filter:searchText | filter:selectedGroup | orderBy: 'name'">
+
+            <div class="card medium blue accent-1 hoverable" >
+                <div class="card-image" style="height:">
+                    <img ng-src={{product.image}} />
+                </div>
+                <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">{{product.name}}<i class="material-icons right" style="font-size:2.5rem">info_outline</i></span>
+                  <p>{{product.group}}</p>
+
+                  <p class="">{{product.description}}</p>                    
+                </div>
+                <div class="card-reveal blue-grey darken-2">
+                  <span class="card-title white-text text-darken-4">{{product.name}}<i class="material-icons right" style="font-size:2.5rem">close</i></span>                    
+                  <p class="white-text text-darke-4">{{product.description}}</p>
+                </div>
+              </div>
+          </div>
+      </div>
+  

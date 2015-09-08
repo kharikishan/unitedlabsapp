@@ -1,0 +1,397 @@
+[
+            {
+                "name" : "DOXIN-DT",
+                "description" : "Doxycyline 100mg. Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "OFCY-200",
+                "description" : "Ofloxacin 200mg Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "SAFE-200",
+                "description" : "Cefpodoxime Proxetil 200 mg.",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UCIFLOX",
+                "description" : "Cefixime 200mg + Ofloxacin 200mg Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UFLOX-OZ",
+                "description" : "Ofloxacin 200 mg. + Ornidazole 500 mg Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UMEX-200",
+                "description" : "Cefixime 200mg. Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UMOX-CK 625",
+                "description" : "Amoxycillin 500mg. + Potassium Clavulanate 125mg. Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UNICEF-CK",
+                "description" : "Cefpodoxime Proxetil 200mg. + Potassium Clavulanate 125mg. Tabs",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UZIMEX",
+                "description" : "Cefixime 200 mg. + Azithromycin 250 mg.",
+                "group" : "Anti Biotics",
+                "image" : "images/UZIMEX.png"
+            },
+            {
+                "name" : "UCISPAR",
+                "description" : "Sparfloxacin 200 mg Tabs.",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UZITH 250/500",
+                "description" : "Azithromycin 250/500 mg Tablets",
+                "group" : "Anti Biotics",
+                "image" : "images/.png"
+            },
+    
+    
+            {
+                "name" : "DILSER",
+                "description" : "Diclofenac Sodium 50mg+Serratiopeptidase 10 mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "DPI",
+                "description" : "Paracetamol 325 mg. + Ibuprofen 200 mg + Diclofenac Potassium 50 mg. Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },    
+            {
+                "name" : "ACINEX-P",
+                "description" : "Aceclofenac 100 mg. + Paracetamol 500 mg. Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/ACINEXPCARTON.png"
+            },
+            {
+                "name" : "ACINEX-MR",
+                "description" : "Aceclofenac 100 mg. + Paracetamol 325 mg. + Chlorzoxazone 250 mg. Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/Acinex-MR.png"
+            },
+            {
+                "name" : "ACINEX-SP",
+                "description" : "Aceclofenac 100 mg. + Paracetamol 325 mg. + Serratiopeptidase 10 mg. Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "MOL-N",
+                "description" : "Nimesulide 100mg + Paracetamol 325mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "PYCET",
+                "description" : "Piroxicam 20 mg + Para 325 mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "STUFF",
+                "description" : "Diclo 50mg + Para 325 mg + Chlorzoxazone 250 mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UNIMOL",
+                "description" : "Paracetamol 650 mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UNIM",
+                "description" : "Nimesulide 100 mg Tabs",
+                "group" : "Pain Killers",
+                "image" : "images/.png"
+            },    
+
+    
+            {
+                "name" : "EDIT",
+                "description" : "Loperamide 1.5 mg. + Metronidazole 200 mg. + Dicyclomine 10 mg. Tabs",
+                "group" : "Anti Emetics",
+                "image" : "images/.png"
+            },
+    
+    
+            {
+                "name" : "OZONE-20",
+                "description" : "Omeprazole 20 mg. Caps.",
+                "group" : "Anti Ulcerants",
+                "image" : "images/Ozone-20Tab.png"
+            },
+            {
+                "name" : "OZONE-DM",
+                "description" : "Omeprozole 20 mg. + Domperidone 10 mg. Caps.",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "ROZ-20",
+                "description" : "Rabeprazole 20 mg. Tabs",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "ROZ-DM SR",
+                "description" : "Rabeprazole 20 mg. Tabs",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "TOPPER-40",
+                "description" : "Pantoprazole 40 mg. Tabs",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "TOPPER-DM SR",
+                "description" : "Pantoprazole 40 mg. + Domperidone 30 mg. S R Caps",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },    
+            {
+                "name" : "OMISPAS",
+                "description" : "Omeprazole 20 mg. + Dicyclomine 10 mg Tabs.",
+                "group" : "Anti Ulcerants",
+                "image" : "images/.png"
+            },    
+    
+    
+    
+    
+            {
+                "name" : "ALCARBOVIT",
+                "description" : "Carbonyl Iron 100 mg + Cyanocobalamin 1500 mcg + Folic Acid 0.5 mg + Zinc 61.8 mg Tabs",
+                "group" : "Nutritional Supplements",
+                "image" : "images/ALCORBOVIT.png"
+            },
+            {
+                "name" : "ALVITAL-Z",
+                "description" : "Antioxidants, Multivitamins, Multiminerals & Ginseng Tabs.",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "CALSI-D 500",
+                "description" : "Calcium Carbonate 500 mg + Vitamin D3 Tabs.",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "CALSI-DC",
+                "description" : "Calcium Citrate 1000 mg + Vitamin D3 200 IU + Magnesium 240 mg + Zinc 4 mg Tabs",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "FERRIN-Z",
+                "description" : "Ferrous Ascorbate 100mg + Folic Acid 1.5 mg + Cyanocobalamin 15 mcg. + Zinc 61.8 mg Tabs.",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "NUROFIT",
+                "description" : "Mecobalamin + Vitamin B1 + B6 + Folic Acid + Niacinamide Tabs.",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "LOTOVIT",
+                "description" : "Bcomplex with Vitamin C Capsles",
+                "group" : "Nutritional Supplements",
+                "image" : "images/.png"
+            },    
+    
+            {
+                "name" : "BRONKORYL",
+                "description" : "Levocetirizine 5 mg + Ambroxol Hcl. 60 mg. Tabs",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "BRONKORYL+",
+                "description" : "Levocetirizine 5 mg + Ambroxol Hcl. 60 mg. + Guaiphensin 50 mg+ CPM 2 mg Tabs.",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "TRIACT+",
+                "description" : "Paracetamol 325mg + Phenylephrine Hcl 10mg + Cetirizine 5 mg Tabs.",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "TRIACT-JR",
+                "description" : "Paracetamol 250mg + Phenylephrine Hcl 2.5mg + Cetirizine 1 mg Tabs.",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UVOCET",
+                "description" : "Levocetirizine 5 mg Tabs",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UVOKAST",
+                "description" : "Levocetirizine 5 mg + Montelukast 10 mg Tabs",
+                "group" : "Anticold & Cough Expectorant",
+                "image" : "images/.png"
+            },    
+    
+            {
+                "name" : "ALHIST 60/100 ml.",
+                "description" : "CPM + Ammonium Chloride + Sodium Citrate + Menthol Syrup",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },    
+            {
+                "name" : "AMBU 100 ml",
+                "description" : "Ambroxol Hcl.+ Guaiphenesin + Terbutaline Sulphate + CPM + Menthol Syrup",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "BRONCORYL 100 ml.",
+                "description" : "Ambroxol Hcl. + Salbutamol + Guaiphenesin + Menthol",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "CALSI-D 200 ml.",
+                "description" : "Calcium + Vitamin D3",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "PLEX 20 ml.",
+                "description" : "B-Complex Syrup.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "TOTAL-V 200 ml.",
+                "description" : "Multi Vitamins, Multi Minerals Syrup.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "PEPTOCYL",
+                "description" : "Cyproheptadine Syrup",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UCOLD 60 ml.",
+                "description" : "PP Hcl. Paracetamol + CPM Syrup.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UNIMOL-250 60ml.",
+                "description" : "Paracetamol 250 mg.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UZYME",
+                "description" : "Digestive Enzyme Syrup.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "ZEDFER 200 ml.",
+                "description" : "Iron+B-Complex+Zinc Syrup.",
+                "group" : "Liquids",
+                "image" : "images/.png"
+            },
+    
+
+    
+            {
+                "name" : "SAFE-50/100 (30 ml.)",
+                "description" : "Cefpodoxime Proxetil 50/100 mg.",
+                "group" : "Dry Syrups",
+                "image" : "images/.png"
+            },
+    
+    
+            {
+                "name" : "TOPPER-40",
+                "description" : "Pantoprazole 40 mg.",
+                "group" : "Injections",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UZOBACT",
+                "description" : "Ceftriaxone 1000 mg + Sulbactum 500 mg.",
+                "group" : "Injections",
+                "image" : "images/.png"
+            },
+            {
+                "name" : "UCIF-500/1000",
+                "description" : "Ceftriaxone 500/1000 mg.",
+                "group" : "Injections",
+                "image" : "images/.png"
+            },
+    
+    
+            {
+                "name" : "UNIPRO",
+                "description" : "American Icecream Flavour Protein Powder",
+                "group" : "Protein Powders",
+                "image" : "images/UNIPRO.png"                
+            },    
+            {
+                "name" : "V-PROTEIN",
+                "description" : "Choclate Flavour Protein Powder",
+                "group" : "Protein Powders",
+                "image" : "images/VPROTEIN.png"                
+            },
+            {
+                "name" : "PERFECT-D",
+                "description" : "Diabetic Protein Powder",
+                "group" : "Protein Powders",
+                "image" : "images/VPROTEIN.png"                
+            },
+    
+    
+            {
+                "name" : "SUGUN OIL",
+                "description" : "Pain Reliever oil.",
+                "group" : "Ayurvedic Products",
+                "image" : "images/SUGUNOIL.png"
+            },
+            {
+                "name" : "LIVE-IN 120/200 ml.",
+                "description" : "Liver Protector",
+                "group" : "Ayurvedic Products",
+                "image" : "images/SUGUNOIL.png"
+            }    
+    
+
+]

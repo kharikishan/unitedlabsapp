@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"Anti Biotics" 
+    },
+    {
+        "id":"2",
+        "name":"Pain Killers"
+    },
+    {
+        "id":"4",        
+        "name":"Anti Ulcerants"
+    },
+    {
+        "id":"5",        
+        "name":"Nutritional Supplements"
+    },
+    {
+        "id":"6",        
+        "name":"Anticold & Cough Expectorant"
+    },
+    {
+        "id":"7",        
+        "name":"Liquids"
+    },
+    {
+        "id":"8",        
+        "name":"Dry Syrups"
+    },
+    {
+        "id":"9",        
+        "name":"Injections"
+    },
+    {
+        "id":"11",        
+        "name":"Protein Powders"
+    },
+    {
+        "id":"12",        
+        "name":"Ayurvedic Products"
+    }     
+]

@@ -1,0 +1,132 @@
+ [
+    {
+        "name"      : "AntiBiotics",
+        "products"  : [
+            {
+                "name" : "ACC-500",
+                "description" : ""
+            },
+            {
+                "name" : "CIPEX-250/500",
+                "description" : ""
+            
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Pain Killers",
+        "products"  : [
+            {
+                "name" : "ACINEX-P",
+                "description" : ""
+            },
+            {
+                "name" : "ACINEX-MR",
+                "description" : ""
+            
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Antispasmodics",
+        "products"  : [
+            {
+                "name" : "SYNIC",
+                "description" : "Mefanamic Acid 250 mg. + Dicyclomine Hcl. 10 mg. Tabs"
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Anti Ulcerants",
+        "products"  : [
+            {
+                "name" : "OZONE-20",
+                "description" : "Omeprazole 20 mg. Caps."
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Nutritional Supplements",
+        "products"  : [
+            {
+                "name" : "ALCARBOVIT",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Anticold & Cough Expectorant",
+        "products"  : [
+            {
+                "name" : "BRONKORYL",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Liquids",
+        "products"  : [
+            {
+                "name" : "A B C 100ml.",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Dry Syrups",
+        "products"  : [
+            {
+                "name" : "UMEX -50/100 (30 ml.)",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Injections",
+        "products"  : [
+            {
+                "name" : "ALERT",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Ointment/Creams/Gel",
+        "products"  : [
+            {
+                "name" : "DG FORTE 30 gm.",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Protein Powders",
+        "products"  : [
+            {
+                "name" : "UNIPRO",
+                "description" : ""
+            }
+        ]
+    
+    },
+    {
+        "name"      : "Ayurvedic Products",
+        "products"  : [
+            {
+                "name" : "SUGUN OIL",
+                "description" : ""
+            }
+        ]
+    
+    }     
+]
