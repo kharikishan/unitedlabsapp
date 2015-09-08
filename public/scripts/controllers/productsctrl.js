@@ -1,7 +1,7 @@
 ulapp.controller('productsctrl',['$scope', '$http',function($scope, $http){
 
         //Products
-        $http.get('http://192.168.2.46:8080/api/productslist').
+        $http.get('http://ec2-52-21-169-186.compute-1.amazonaws.com:8080/api/productslist').
         success(function(data, status, headers, config) {
           $scope.products = data;
 
@@ -11,7 +11,7 @@ ulapp.controller('productsctrl',['$scope', '$http',function($scope, $http){
         });
 
         //Product Groups
-        $http.get('http://192.168.2.46:8080/api/productgroups').
+        $http.get('http://ec2-52-21-169-186.compute-1.amazonaws.com:8080/api/productgroups').
         success(function(data, status, headers, config) {
           $scope.productgroups = data;
 
